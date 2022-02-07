@@ -1,0 +1,16 @@
+body{
+  background-color: green
+}
+h1{
+  color: brown
+}
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
